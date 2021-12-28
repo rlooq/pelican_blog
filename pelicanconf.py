@@ -1,7 +1,7 @@
 AUTHOR = 'Rafa Luque'
 SITENAME = 'Highnoon Ruffles'
 SITEURL = 'https://highnoon-ruffles.com'
-THEME = 'hyde'
+THEME = 'theme'
 
 PATH = 'content'
 
