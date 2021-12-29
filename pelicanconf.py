@@ -10,10 +10,10 @@ TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = 'en'
 
 
-SITESUBTITLE = "A beautiful subtitle"
-BIO = "One rabbit hole after another"
+SITESUBTITLE = "One endless rabbit hole"
+BIO = "One endless rabbit hole"
 PROFILE_IMAGE = 'calling.jpg'
-FOOTER_TEXT = '(c) 2021. All rights reserved.'
+FOOTER_TEXT = '© 2021. Rafa Luque. All rights reserved.'
 COLOR_THEME = '0x'
 DIRECT_TEMPLATES = ['index', 'archives']
 CATEGORY_SAVE_AS = ''
