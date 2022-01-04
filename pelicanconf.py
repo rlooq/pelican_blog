@@ -10,13 +10,14 @@ TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = 'en'
 
 
-SITESUBTITLE = "One endless rabbit hole"
-BIO = "One endless rabbit hole"
+SITESUBTITLE = "Midday Ramblings"
+BIO = "I am at the moment writing a lengthy indictment against our century. When my brain begins to reel from my literary labors, I make an occasional cheese dip."
 PROFILE_IMAGE = 'calling.jpg'
 FOOTER_TEXT = '© 2021. Rafa Luque. All rights reserved.'
 COLOR_THEME = '0x'
 DIRECT_TEMPLATES = ['index', 'archives']
 CATEGORY_SAVE_AS = ''
+TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 ARCHIVES_SAVE_AS = 'archive.html'
 

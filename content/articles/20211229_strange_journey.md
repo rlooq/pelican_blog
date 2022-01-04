@@ -1,6 +1,5 @@
 Title: A Strange Journey
 Date: 2021-12-29
-Tags: personal, intentions
 
 
 I've been trying to learn Python and other related skills on-and-off for some time now. It's been, and still is both frustrating and rewarding in equal measure.
@@ -11,8 +10,8 @@ Those jobs were exciting at the time, and demanding. But they didn't pay much, n
 
 It was quite a career change, I remember a friend's forecast: you will find stability, but not happiness. In hindsight, I can't say he was right, but in terms of working environment, it did feel like travelling back to the 20th century (if not the 19th, in some respects). Don't get me wrong, my colleagues are smart, honest people who work hard and care about their students, but it's a balancing act with the lack of resources, the counterproductive policies, and the excess of pointless bureaucray. Despite all that, let's be honest: it's a relatively easy job. Interesting the first 5 or 10 years, not so much after that.
 
-I miss the challenges, the cutting-edge, and the collective exhilaration of problem-solving under pressure. Call it masochism. The fact is: I find this coding hobby very rewarding, even if it hasn't exactly solved any problem in my current job, except for the occasional calculation of grades, some web scraping when finding teaching materials, or using regular expressions to deal with texts. I've even been delving in NLP to try to extract vocabulary and text statistics. But truth be told, it's all overkill for my needs. A quizzing app seems doable in the command line, not so much -with my current skill level- on [Flask](https://flask.palletsprojects.com/en/2.0.x/). I'm working on it, though.
+I miss the challenges, the cutting-edge, and the collective exhilaration of problem-solving under pressure. Call it masochism. The fact is: this coding hobby has brought some of that back, even if it hasn't exactly solved any problem in my current job, except for the occasional calculation of grades, some web scraping when finding teaching materials, or using regular expressions to deal with texts. I've even been delving in NLP to try to extract vocabulary and text statistics. But truth be told, it's all overkill for my current needs. A quizzing app seems doable in the command line, not so much -yet- on [Flask](https://flask.palletsprojects.com/en/2.0.x/). I'm working on it, though.
 
-Overkill or not, all of this wouldn't have been possible as recently as 5 or 6 years ago. The volume of information available these days is unprecedented, and I find it hard not to take advantage of it. I'm not planning to change careers any time soon, but I take my learning seriously.
+Overkill or not, all of this wouldn't have been possible as recently as 5 or 6 years ago. The volume of information available these days is unprecedented, and I find it hard not to take advantage of it. I'm not planning to change careers anytime soon, but wherever it leads, I take my learning seriously.
 
-In the end, I'm told that the best way to solidify what you learn is to document it and try to explain it. Besides that, I need some structure around my chaotic habits. So I might as well try to do some of that here. My means are limited, but my intentions are good. And the road to hell is paved with good intentions. Watch out! *Hey mama, look at me, I'm on my way to the promised land...*
+In the end, I'm told that the best way to solidify what you learn is to document it and try to explain it. Besides that, I need some structure around my chaotic habits. So I might as well try to do some of that here. My means are limited, but my intentions are good. And the road to hell is paved with good intentions. *Hey mama, look at me, I'm on my way to the promised land...*
