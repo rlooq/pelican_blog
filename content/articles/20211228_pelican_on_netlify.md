@@ -11,4 +11,4 @@ Now, after tweaking the CSS and templates in the theme, and once the Netlify dep
 
 Beautiful, great news, Mr. Ruffles. But then what? What are you going to write about? What is it that you have to say?
 
-Not sure how to answer that, Mr. Voice-in-my-head, not yet at least. I'll have to figure it out over the next few posts. The world out there (on- and offline) is very much unpolished, and it doesn't make a whole lot of sense if you ask me, so what's the harmin a little more of that?
+Not sure how to answer that, Mr. Voice-in-my-head, not yet at least. I'll have to figure it out over the next few posts. The world out there (on- and offline) is very much unpolished, and it doesn't make a whole lot of sense if you ask me, so what's the harm in a little more of that?
