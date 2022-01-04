@@ -11,8 +11,4 @@ Now, after tweaking the CSS and templates in the theme, and once the Netlify dep
 
 Beautiful, great news, Mr. Ruffles. But then what? What are you going to write about? What is it that you have to say?
 
-Not sure how to answer that, Mr. Voice-in-my-head, not yet at least. I'll have to figure it out over the next few posts. But let me give you some context: I'm in my forties, no kids to worry about, no pets either. I got the running bug for a while, but now my back pain is killing me, so I had to stop that. A middle-aged man of the 21st century needs to keep his mind focused on one or two personal projects so it doesn't wander into dark territories. Not that I have a lot of free time, but if my day job is all there is, I might as well toast myself to oblivion watching Netflix.
-
-Whatever comes next in these posts, don't expect a pretty picture like the ones on Facebook. I'm fighting against my lazy, moody self, but it's no use hiding him. Also, I write in a foreign language, mind you, so please forgive my quirky turns of phrase. Apart from factual errors, I refuse to go back and review my posts, because if I do, I will spend weeks to polish each sentence until I like it, and then I'll change my mind.
-
-The world out there (on- and offline) is very much unpolished, and it doesn't make a whole lot of sense if you ask me, so what's the harmin a little more of that?
+Not sure how to answer that, Mr. Voice-in-my-head, not yet at least. I'll have to figure it out over the next few posts. The world out there (on- and offline) is very much unpolished, and it doesn't make a whole lot of sense if you ask me, so what's the harmin a little more of that?
