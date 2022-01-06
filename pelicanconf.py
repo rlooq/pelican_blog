@@ -20,6 +20,7 @@ CATEGORY_SAVE_AS = ''
 TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 ARCHIVES_SAVE_AS = 'archive.html'
+SUMMARY_MAX_LENGTH = 90
 
 MENUITEMS = (
         ('Archive', 'archive.html'),
