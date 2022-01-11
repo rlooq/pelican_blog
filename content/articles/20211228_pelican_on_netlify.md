@@ -7,8 +7,10 @@ So, anyway, I'm at my parents' place for Christmas, and all I brought with me is
 
 The whole thing is hosted for free (https certificate included) on Netlify, which compiles it from a repo on Github. [This article](https://frankcorso.dev/deploying-your-pelican-static-site-to-netlify.html) by Frank Corso, does a great job at explaining each step in the deployment: from creating a Github repo to adjusting the environment variables within Netlify. For the domain name bits, Netlify itself has pretty good documentation.
 
-Now, after tweaking the CSS and templates in the theme, and once the Netlify deployment is set, all I have to do is write plain-text files with some markdown, which are then converted into HTML by Pelican. Any changes I make in my laptop, once commited, Netlify gets them from Github and recompiles the site automatically.
+Now, after tweaking the CSS and templates in the theme, and once the Netlify deployment is set, all I have to do is write plain-text files with some markdown, which are then converted into HTML by Pelican. Any changes I make in my laptop, once commited, Netlify gets them from Github and recompiles the site automatically. To make it look less empty, I have populated it with a bric-a-brac of old stuff going as far back as 2011. But this is the initial post.
 
 Beautiful, great news, Mr. Ruffles. But then what? What are you going to write about? What is it that you have to say?
 
 Not sure how to answer that, Mr. Voice-in-my-head, not yet at least. I'll have to figure it out over the next few posts. The world out there (on- and offline) is very much unpolished, and it doesn't make a whole lot of sense if you ask me, so what's the harm in a little more of that?
+
+Find a niche, you say? Niches are for marble statues.

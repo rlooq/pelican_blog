@@ -1,6 +1,6 @@
 AUTHOR = 'Rafa Luque'
 SITENAME = 'Highnoon Ruffles'
-SITEURL = 'https://highnoon-ruffles.com'
+SITEURL = 'https://www.highnoon-ruffles.com'
 THEME = 'theme'
 
 PATH = 'content'
@@ -11,7 +11,7 @@ DEFAULT_LANG = 'en'
 
 
 SITESUBTITLE = "Midday Ramblings"
-BIO = "I am at the moment writing a lengthy indictment against our century. When my brain begins to reel from my literary labors, I make an occasional cheese dip."
+BIO = "I am at the moment writing a lengthy indictment against our century. When my brain begins to reel from my literary labors, I make an occasional cheese dip. --Ignatius J. Reilly"
 PROFILE_IMAGE = 'calling.jpg'
 FOOTER_TEXT = '© 2021. Rafa Luque. All rights reserved.'
 COLOR_THEME = '0x'
@@ -33,6 +33,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+FEED_DOMAIN = SITEURL
+STATIC_PATHS = ['images', 'extras']
+EXTRA_PATH_METADATA = {
+#    'extras/robots.txt': {'path': 'robots.txt'},
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+    'extras/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+    'extras/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+}
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/rafa_luque'),
