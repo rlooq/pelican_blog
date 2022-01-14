@@ -2,24 +2,23 @@ Title: Regex Cheat Sheet
 Date: 2020-08-20
 
 
-A [regular expression]((https://en.wikipedia.org/wiki/Regular_expression)) or pattern matches a target string that meets the specified requirements. Most formalisms provide the following operations to construct regular expressions:
+A [regular expression]((https://en.wikipedia.org/wiki/Regular_expression)) or pattern is used to go through a text and find a target string that meets the specified requirements. Most formalisms provide the following operations to construct regular expressions:
 
 - __Boolean "or"__: A vertical bar separates alternatives. For example, `gray|grey` can match "gray" or "grey".  
-- __Grouping__: Parentheses are used to define the scope and precedence of the operators (among other uses). For example, `gray|grey` and `gr(a|e)y` are equivalent.  
+- __Grouping__: Parentheses are used to define the scope and precedence of the operators (among other uses). For example, `gray|grey` and `gr(a|e)y` are equivalent. In the first case the options are 'gray' and 'grey', in the second the vowels 'a' and 'e' in the third position of the word.  
 - __Quantification__: A quantifier after a token (such as a character) or group specifies how often that a preceding element is allowed to occur. The most common quantifiers are `?`, `*` and `+`. Other patterns are `{n}`, `{min,}`, `{,max}`, `{min,max}`, where `n` is the exact number of times.  
 - __Wildcard__: The wildcard `.` matches any character.  
 
-The pattern is composed of a sequence of atoms. An atom is a single point within the regex pattern which it tries to match to the target string. The simplest atom is a literal, but grouping parts of the pattern to match an atom will require using `( )` as metacharacters. Metacharacters help form: 
+The pattern is composed of a sequence of atoms which try to match to the target string. The simplest atom is a literal, but grouping parts of the pattern to match an atom will require using `( )` as metacharacters. Metacharacters help form: 
 - atoms; 
 - quantifiers telling how many atoms (and whether it is a greedy quantifier or not); 
 - a logical OR character, which offers a set of alternatives, and a logical NOT character, which negates an atom's existence; 
 - and backreferences to refer to previous atoms of a completing pattern of atoms. 
 
-A match is made, not when all the atoms of the string are matched, but rather when all the pattern atoms in the regex have matched. The idea is to make a small pattern of characters stand for a large number of possible strings, rather than compiling a large list of all the literal possibilities.
+Depending on the regex processor there are about fourteen metacharacters that may or may not have their literal character meaning, depending on context, or whether they are "escaped", i.e. preceded by an escape sequence, in this case, the backslash \. 
+The usual metacharacters are `{}[]()^$.|*+?` and `\`. The usual characters that become metacharacters when escaped are `dswDSW` and `N`. 
 
-Depending on the regex processor there are about fourteen metacharacters that may or may not have their literal character meaning, depending on context, or whether they are "escaped", i.e. preceded by an escape sequence, in this case, the backslash \. The usual metacharacters are `{}[]()^$.|*+?` and `\`. The usual characters that become metacharacters when escaped are `dswDSW` and `N`. 
-
-When entering a regex in a programming language, they may be represented as a usual string literal, hence usually quoted; this is common in C, Java, and Python for instance. However, they are often written with slashes as *delimiters*, as in `/re/` for the regex `re`. This originates in ed, where `/` is the editor command for searching, and an expression `/re/` can be used to specify a range of lines (matching the pattern), which can be combined with other commands on either side, most famously `g/re/p` as in `grep`. A similar convention is used in `sed`, where search and replace is given by `s/re/replacement/` and patterns can be joined with a comma to specify a range of lines as in `/re1/,/re2/`. 
+When entering a regex in a programming language or text editor, they are usually quoted; this is common in C, Java, and Python for instance. However, they are often written with slashes as *delimiters*, as in `/re/` for the regex `re`. This originates in ed, where `/` is the editor command for searching, and an expression `/re/` can be used to specify a range of lines (matching the pattern), which can be combined with other commands on either side, most famously `g/re/p` as in `grep`. A similar convention is used in `sed`, where search and replace is given by `s/re/replacement/` and patterns can be joined with a comma to specify a range of lines as in `/re1/,/re2/`. 
 
 __Character classes__: The character class is the most basic regex concept after a literal match. It makes one small sequence of characters match a larger set of characters. For example, [A-Z] could stand for the uppercase alphabet in the English language, and `\d` could mean any digit. 
 
