@@ -2,9 +2,13 @@ Title: Bond And Bond Girls
 Date: 2020-09-17
 
 
-In the decade going from 1953 to 1964, when most of Ian Fleming's Bond stories were published, the Cold War was in full swing, with spies from both sides of the iron curtain heating up the public imagination to melting point. Tales of intrigue and espionage were the thing then, and in that context Ian Fleming came up with his James Bond, "a suave connoisseur of luxury, a world traveler, ruthless killer, skilled wielder of weaponry, rakish womanizer, and virtually indestructible force for the defense of Western society"[^1]. In a way, agent 007 made the Cold War elegant and sexy. He moved our minds away from nuclear apocalypse and towards martinis shaken (not stirred), beautiful girls in bikinis... in other words, *carpe diem*. Did that help in preventing us from obliterating life on Earth? Maybe not, or maybe just a little. In March 1964, Playboy published a pictorial titled _Girls of Russia and the Iron Curtain_, which some claimed was one of the first signs of thawing tensions in the Cold War. 
+In the decade going from 1953 to 1964, when most of Ian Fleming's Bond stories were published, the Cold War was in full swing, with spies from both sides of the iron curtain heating up the public imagination to melting point. Tales of intrigue and espionage were the thing then, and in that context Ian Fleming came up with his James Bond, "a suave connoisseur of luxury, a world traveler, ruthless killer, skilled wielder of weaponry, rakish womanizer, and virtually indestructible force for the defense of Western society"[^1]. 
 
-Although I've seen most of the Bond films, I've never read any of the books. I was curious to see how the 007 in the books treated the ladies back in the 50s. And how the ladies responded to his advances. So I downloaded a bunch of Bond texts from Project Gutenberg and played a bit with `grep` and regular expressions.
+In a way, agent 007 made the Cold War elegant and sexy. He moved our minds away from nuclear apocalypse and towards martinis shaken (not stirred), beautiful girls in bikinis... in other words, *carpe diem*. 
+
+Did that help in preventing us from obliterating life on Earth? Maybe not, or maybe just a little. In March 1964, Playboy published a pictorial titled _Girls of Russia and the Iron Curtain_, which some claimed was one of the first signs of thawing tensions in the Cold War. 
+
+Although I've seen most of the Bond films, I've never read any of the books. And today, I was curious to see how the 007 in the books treated the ladies back in the 50s. And how the ladies responded to his advances. So I downloaded a bunch of Bond texts from Project Gutenberg and played a bit with `grep` and regular expressions to find some relevant passages.
 
 Assuming it all started with a daring kiss, I pictured Bond-James-Bond always taking the initiative, but a simple search of the bigrams *kissed her* and *kissed him* proved me wrong.
 
