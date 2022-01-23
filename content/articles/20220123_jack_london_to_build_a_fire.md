@@ -7,14 +7,16 @@ Wherever you stand, you're surrounded by mountains, dark green and reddish gray 
 
 We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. But man, it's beautiful. Beautiful and cold (in winter). Not Yukon Territory cold, for sure, you can still get out in the sun and it feels great for a few hours between noon and 4pm. 
 
-And, objectively, the temperature is not much lower than in Madrid. But in the house we're renting, you can't sit down for too long, I can't feel my fingers as I type, not to mention my toes. I can't remember feeling my toes since last October, I hope they're still there.
+And, objectively, the temperature is not much lower than in Madrid. But in the house we're renting, one dares not sit down for too long. I can't feel my fingers as I type, not to mention my toes. I haven't felt my toes since last October, I believe they're still there, hibernating in two layers of socks.
 
-That, and the ailments of my 40th decade on this Earth (back pain, migraines ...), have made me painfully aware of my physical limitations as a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?*
+That, and the ailments of my 4th decade on this Earth (bad back, migraines ...), have made me painfully aware of my physical limitations as a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?* And his famous short story, "To Build a Fire" (1908). 
 
-"To Build a Fire" the famous short story by [Jack London](https://en.wikipedia.org/wiki/Jack_London) was published in 1908. Its central theme is *Man vs. Nature*: the protagonist decides to face the brutally cold temperatures of the Yukon Territory despite being warned against it by an older man. The story depicts his battle for survival, highlighting the importance of the fire, and comparing the man's sense of judgment with the dog's animal instincts. Through this fight for survival, there's also the discovery of the self as just a frail, physical body.
+Its central theme is *Man vs. Nature*: the protagonist decides to face the brutally cold temperatures of the Yukon Territory despite being warned against it by an older man. The story depicts his battle for survival, highlighting the importance of the fire, and comparing the man's sense of judgment with the dog's animal instincts. Through this fight for survival, there's also the discovery of the self as just a frail, physical body.
 
 
-## To Build A Fire
+## To Build A Fire 
+
+**By Jack London**
 
 __Reading Time__: 35 minutes.
 
