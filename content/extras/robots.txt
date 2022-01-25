@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+
+
+Sitemap: https://www.highnoon-ruffles.com/sitemap.xml

@@ -36,10 +36,27 @@ AUTHOR_FEED_RSS = None
 FEED_DOMAIN = SITEURL
 STATIC_PATHS = ['images', 'extras']
 EXTRA_PATH_METADATA = {
-#    'extras/robots.txt': {'path': 'robots.txt'},
+    'extras/robots.txt': {'path': 'robots.txt'},
     'extras/favicon.ico': {'path': 'favicon.ico'},
     'extras/favicon-16x16.png': {'path': 'favicon-16x16.png'},
     'extras/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+}
+
+
+PLUGINS = ['sitemap']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.6,
+        'indexes': 0.5,
+        'pages': 0.4
+    },
+    'changefreqs': {
+        'articles': 'weekly',
+        'indexes': 'weekly',
+        'pages': 'monthly'
+    }
 }
 
 # Social widget
