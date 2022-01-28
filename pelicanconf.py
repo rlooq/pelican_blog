@@ -21,9 +21,10 @@ TAG_SAVE_AS = ''
 AUTHOR_SAVE_AS = ''
 ARCHIVES_SAVE_AS = 'archive.html'
 SUMMARY_MAX_LENGTH = 90
-
+DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-        ('Archive', 'archive.html'),
+        ('About', 'https://www.highnoon-ruffles.com/pages/about.html'),
+        ('Archive', 'https://www.highnoon-ruffles.com/archive.html'),
         )
 
 # Feed generation is usually not desired when developing
