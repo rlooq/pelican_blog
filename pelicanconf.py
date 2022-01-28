@@ -61,6 +61,7 @@ SITEMAP = {
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/rafa_luque'),
+        ('instagram', 'https://www.instagram.com/randomlooq/'),
         ('github', 'https://github.com/rlooq'),
         ('email', 'rlooq@yahoo.com')
         )
