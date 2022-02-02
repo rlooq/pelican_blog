@@ -5,11 +5,11 @@ When the African continent crashed into Europe, 50 million years ago, a bunch of
 
 Wherever you stand, you're surrounded by mountains, dark green and reddish gray during the day, purple with an orange background at dusk, and a nighmarish black in the moonlight.
 
-We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. But man, it's beautiful. Beautiful and cold (in winter). Not Yukon Territory cold, for sure, you can still get out in the sun and it feels great for a few hours between noon and 4pm. 
+We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. But man, it's beautiful. Beautiful and cold (in winter). Not Alaska cold, for sure: you can still get out in the sun and it feels great for a few hours between noon and 4pm. But cold nevertheless.
 
-And, objectively, the temperature is not much lower than in Madrid. But in the house we're renting, one dares not sit down for too long. I can't feel my fingers as I type, not to mention my toes. I haven't felt my toes since last October, I believe they're still there, hibernating in two layers of socks.
+And, objectively, the temperature is not much lower than in Madrid. It must be the humidity or some kind of cosmic energy messing with us. The fact is, in the house we're renting, one dares not sit down for too long. I can't feel my fingers as I type, not to mention my toes. I haven't felt my toes since last October, I believe they're still there, hibernating in two layers of socks.
 
-That, and the ailments of my 4th decade on this Earth (bad back, migraines ...), have made me painfully aware of my physical limitations as a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?* And his famous short story, "To Build a Fire" (1908). 
+That, and the ailments of my 4th decade on this Earth (bad back, migraines ...), have made me painfully aware of my physical limitations as a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?* And his famous short story, __"To Build a Fire"__ (1908). 
 
 Its central theme is *Man vs. Nature*: the protagonist decides to face the brutally cold temperatures of the Yukon Territory despite being warned against it by an older man. The story depicts his battle for survival, highlighting the importance of the fire, and comparing the man's sense of judgment with the dog's animal instincts. Through this fight for survival, there's also the discovery of the self as just a frail, physical body.
 
@@ -18,7 +18,7 @@ Its central theme is *Man vs. Nature*: the protagonist decides to face the bruta
 
 **By Jack London**
 
-__Reading Time__: 35 minutes.
+__Reading Time: 40 minutes.__
 
 Day had broken cold and gray, exceedingly cold and gray, when the man turned aside from the main Yukon trail and climbed the high earth-bank, where a dim and little-traveled trail led eastward through the fat spruce timberland. It was a steep bank, and he paused for breath at the top, excusing the act to himself by looking at his watch. It was nine o'clock. There was no sun nor hint of sun, though there was not a cloud in the sky. It was a clear day, and yet there seemed an intangible pall[^1] over the face of things, a subtle gloom that made the day dark, and that was due to the absence of sun. This fact did not worry the man. He was used to the lack of sun. It had been days since he had seen the sun, and he knew that a few more days must pass before that cheerful orb, due south, would just peep above the sky-line and dip immediately from view.
 
@@ -102,15 +102,9 @@ Then the man drowsed off into what seemed to him the most comfortable and satisf
 
 __Source__: [Wikisource](https://en.wikisource.org/wiki/Century_Magazine/Volume_76/Issue_4/To_Build_a_Fire)
 
-## Stats, Highlights, and Footnotes
+## Stats & Highlights
 
 6983 total words, 1505 unique words, and 16.7 words per sentence on average. 1389 nouns, 1002 verbs, 427 adverbs, and 427 adjectives.
 
-- It certainly was cold, he concluded as he rubbed his numb nose and cheek-bones with his mittened hand.
-- But the dog knew; all its ancestry knew, and it had inherited the knowledge. And it knew that it was not good to walk abroad in such fearful cold.
-
-[^1]: *pall* (I) a square of linen usually stiffened with cardboard that is used to cover the chalice in a church, (II) something that covers or conceals, like clouds on an overcast sky.
-[^2]: *spruce* - evergreen trees of the pine family with a conical head of dense foliage.
-[^3]: *plow and flounder* - walk through the snow, and struggle to move or obtain footing.
-
-
+- *It certainly was cold, he concluded as he rubbed his numb nose and cheek-bones with his mittened hand.*
+- *But the dog knew; all its ancestry knew, and it had inherited the knowledge. And it knew that it was not good to walk abroad in such fearful cold.*
