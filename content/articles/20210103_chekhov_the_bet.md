@@ -97,7 +97,7 @@ Next morning the watchmen ran in with pale faces, and told him they had seen the
 __Source__: [Gutenberg Project](http://www.gutenberg.org/ebooks/57333)
 
 
-## Stats, Highlights and Footnotes
+## Stats & Highlights
 2834 total words, 925 unique words, 18.2 words per sentence on average. 613 nouns, 398 verbs, 193 adjectives, 136 adjectives.
 
 - I bet you two millions you wouldn't stay in solitary confinement for five years.

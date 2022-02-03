@@ -5,7 +5,7 @@ Arthur Schopenhauer (1788-1860) was a German philosopher, best known for his 181
 
 Below is an extract from the essay *On Books and Reading*, which is part of his collection *Parerga and Paralipomena* (Greek for "Appendices" and "Omissions"), published in 1851. In it he insists on actively and reflectively reading __only primary works that have stood the test of time__, going through them twice if necessary. 
 
-But he also advises against reading too much, lest you may *read yourself stupid*.
+But he also advises against reading too much, lest you may *read yourself stupid*. Especially if what you read is not what he calls "permanent" or "immortal" literature, the kind that runs its "sober and quiet, but extremely slow" course and "produces in Europe scarcely a dozen works in a century." In other words, don't waste time reading blog posts, or anything at all on the internet for that matter.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 

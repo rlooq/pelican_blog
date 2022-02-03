@@ -5,11 +5,11 @@ When the African continent crashed into Europe, 50 million years ago, a bunch of
 
 Wherever you stand, you're surrounded by mountains, dark green and reddish gray during the day, purple with an orange background at dusk, and a nighmarish black in the moonlight.
 
-We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. But man, it's beautiful. Beautiful and cold (in winter). Not Alaska cold, for sure: you can still get out in the sun and it feels great for a few hours between noon and 4pm. But cold nevertheless.
+We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. But man, it's beautiful. Beautiful and cold (in winter). Not Alaska cold, for sure: you can still get out in the sun and it feels great for a few hours between noon and 4pm. But cold for my crancy bones, nevertheless.
 
-And, objectively, the temperature is not much lower than in Madrid. It must be the humidity or some kind of cosmic energy messing with us. The fact is, in the house we're renting, one dares not sit down for too long. I can't feel my fingers as I type, not to mention my toes. I haven't felt my toes since last October, I believe they're still there, hibernating in two layers of socks.
+And, objectively, the temperature is not much lower than in Madrid. It must be the humidity or some kind of cosmic energy messing with us. The fact is: in the house we're renting, one dares not sit down for too long. I can't feel my fingers as I type, not to mention my toes. I haven't felt my toes since last October, I believe they're still there, hibernating in two layers of socks.
 
-That, and the ailments of my 4th decade on this Earth (bad back, migraines ...), have made me painfully aware of my physical limitations as a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?* And his famous short story, __"To Build a Fire"__ (1908). 
+That, and the ailments of my 4th decade on this Earth (bad back, migraines ...), have made me painfully aware of the physical limitations of a furless, overexposed ape. I keep thinking about Jack London saying *man, it's cold! What am I doing here?* And his famous short story, __"To Build a Fire"__ (1908). 
 
 Its central theme is *Man vs. Nature*: the protagonist decides to face the brutally cold temperatures of the Yukon Territory despite being warned against it by an older man. The story depicts his battle for survival, highlighting the importance of the fire, and comparing the man's sense of judgment with the dog's animal instincts. Through this fight for survival, there's also the discovery of the self as just a frail, physical body.
 
