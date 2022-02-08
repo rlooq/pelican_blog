@@ -27,6 +27,8 @@ MENUITEMS = (
         ('Archive', 'https://www.highnoon-ruffles.com/archive.html'),
         )
 
+FONTS_AWESOME_JS = 'https://kit.fontawesome.com/829b54ddaf.js'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
