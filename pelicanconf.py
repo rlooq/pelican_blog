@@ -9,9 +9,7 @@ TIMEZONE = 'Europe/Madrid'
 
 DEFAULT_LANG = 'en'
 
-
-SITESUBTITLE = "Midday Ramblings"
-BIO = "I am at the moment writing a lengthy indictment against our century. When my brain begins to reel from my literary labors, I make an occasional cheese dip. --Ignatius J. Reilly"
+BIO = "Wake up to a hearty, lip-smacking bowlful of nutritious Highnoon toasted flakes, the adult cereal that’s more crunchy, more tasty, more ummmish!"
 PROFILE_IMAGE = 'calling.jpg'
 FOOTER_TEXT = '© 2021. Rafa Luque. All rights reserved.'
 COLOR_THEME = '0x'
