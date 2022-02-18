@@ -28,7 +28,7 @@ It would make things easier if one treated it [nationalism] as if it belonged wi
 
 In anthropological spirit, then, I propose the following definition of the nation: it is an imagined political community –and imagined as both inherently limited and sovereign.
 
-It is *imagined* because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the iamge of their communion. Renan referred to this imagining in his suavely back-handed way when he wrote that "Or l'essence d'une nation est que tous les individus aient beaucoup de choses en commun, et aussi que tous aient oublié bien des choses." 
+It is *imagined* because the members of even the smallest nation will never know most of their fellow-members, meet them, or even hear of them, yet in the minds of each lives the image of their communion. Renan referred to this imagining in his suavely back-handed way when he wrote that "Or l'essence d'une nation est que tous les individus aient beaucoup de choses en commun, et aussi que tous aient oublié bien des choses." 
 
 With a certain ferocity Gellner makes a comparable point when he rules that "Nationalism is not the awakening of nations to self-consciousness: it *invents* nations where they do not exist." The drawback to this formulation, however, is that Gellner is so anxious to show that nationalism masquerades under false pretenses that he assimilates 'invention' to 'fabrication' and 'falsity', rather than to 'imagining' and 'creation'. In this way he implies that 'true' communities exist which can be advantageously juxtaposed to nations.
 
