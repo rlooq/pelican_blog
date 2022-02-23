@@ -1,6 +1,6 @@
 Title: Dewey On Curiosity
 Date: 2020-12-06
-
+Description: John Dewey's assertion that curiosity is the mother of all learning.
 
 The overriding theme of John Dewey's works was a profound belief in democracy. He asserted that complete democracy was to be obtained not just by extending voting rights but also by ensuring that there exists **a fully formed public opinion**, accomplished by communication among citizens, experts and politicians.
 

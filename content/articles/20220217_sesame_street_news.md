@@ -1,6 +1,6 @@
 Title: Sesame Street News
 Date: 2022-02-17
-
+Description: Annoying habits spreading among some news media, or Too Much Information.
 
 In recent years, we have seen many a change in the way news is reported by major media outlets, from click-bait headlines to the way they choose and tell stories. I'm not talking about annoying euphemisms or dancing around whatever is deemed politically-incorrect, which I can understand to a certain extent. It's a balance act, and it has to be done. 
 

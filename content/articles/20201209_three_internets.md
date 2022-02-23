@@ -1,6 +1,6 @@
 Title: A Tale Of Three Internets
 Date: 2020-12-09
-
+Description: The fragmentation of the internet, although no one is totally free of snooping eyes.
 
 In [this article](https://english.elpais.com/the_global_observer/2020-12-08/a-world-with-three-internets.html) from the [Global Observer column](https://english.elpais.com/news/the_global_observer/), on [El País in English](https://english.elpais.com), Moisés Naím describes how the internet, originally a tool for liberation, is turning into another weapon in a growing arsenal of repression used by countries like China, Russia, Saudi Arabia, Iran, etc.
 

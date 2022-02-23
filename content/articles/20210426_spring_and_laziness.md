@@ -1,5 +1,6 @@
 Title: Spring and the Lazy-Ass Artist as an Old Man
 Date: 2021-04-26
+Description: Moods swing like the Spring weather. And he who hunts two hares leaves one and loses the other.
  
 Weeks come and go with a recognizable pattern. There's something urgent to do, I postpone it and get anxious about it, then I do it and move on. Moods swing like the Spring weather. Every other day, the relative peace is broken by tragicomic battles between co-workers (overblown rhetoric about rights, injustice and abuse), while I try to pull through this year and dream of leaving this pantomime behind. 
 

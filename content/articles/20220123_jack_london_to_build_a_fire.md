@@ -1,5 +1,6 @@
 Title: When Jack London Says It's Cold
 Date: 2022-01-23
+Description: Jack London's short story, To Build A Fire, with a preface that goes back 50 million years, and a pathetic complain about the cold in Southern Spain.
 
 When the African continent crashed into Europe, 50 million years ago, a bunch of limestone mountains rose up from the northern branch of the Tethys ocean, squeezing up a small plateau where Ronda (pop. 35,000) sits in 2022. 
 

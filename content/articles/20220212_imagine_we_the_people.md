@@ -1,14 +1,15 @@
 Title: Imagine We The People
 Date: 2022-02-12
+Description: Nations may be built upon blatant falsehoods and manipulations, but if they are imagined by enough people, they stand as real and unavoidable as money, borders, or laws. Or power itself.
 
 Nations may be built upon blatant falsehoods and manipulations, but if they are imagined by enough people, they stand as real and unavoidable as money, borders, or laws. Or power itself. 
 
-Kings used to have a similar amount of real power over unrelated people based on a ghostly fiction. But the masses did not kill and die for kings in the millions, as they have done and will continue to do in the name of their imagined nations.
+Kings used to exert a similar amount of real power over unrelated people based on a ghostly fiction. But the masses did not kill and die for kings in the millions, as they have done and will continue to do in the name of their imaginary nations.
 
-Hard facts mean nothing for the proud member of such clubs. National feelings can't ever be reasoned with, so don't waste your time piling up perfectly crafted arguments. In the end, we are all apes wielding the real bones of our imagined ancestors. My name is Inigo Montoya, you killed my father, prepare to die, etc.
+Hard facts mean nothing for the proud member of such clubs. National feelings can't ever be reasoned with, so don't waste your time piling up perfectly crafted historical arguments. In the end, we are all apes wielding the bones of our presumed ancestors. My name is Inigo Montoya, you killed my father, prepare to die, etc.
 
 In *[Imagined Communities: Reflections on the Origin and Spread of Nationalism](https://en.wikipedia.org/wiki/Imagined_Communities)* (1983),
-Benedict Anderson coined the term "imagined communities" as a descriptor for nations: rock-solid realities that we've had to contend with for the last couple of centuries, not a long time in the big scheme of things, but our time. This is an extract from the introduction to that work.
+Benedict Anderson coined the term "imagined communities" as a descriptor for nations: rock-solid realities that we've had to contend with for the last couple of centuries, not a long time in the big scheme of things, but the time we live in. This is an extract from the introduction to that work.
 
 
 ## Imagined Communities

@@ -1,6 +1,6 @@
 Title: Just You Wait, Sennacherib
 Date: 2018-07-15
-
+Description: The Destruction of Sennacherib, by Lord Byron, with an angry preface calling for the Angel of Death to smite motorbikes and nasty dog-owners.
 
 *The Destruction of Sennacherib* is a poem by Lord Byron first published in 1815 in his *Hebrew Melodies*. It is based on the biblical account of the historical Assyrian siege of Jerusalem in 701 BC by Assyrian king Sennacherib. 
 

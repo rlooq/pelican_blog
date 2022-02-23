@@ -1,6 +1,6 @@
 Title: Bond And Bond Girls
 Date: 2020-09-17
-
+Description: A lazy exploration of Ian Feming's dirty mind.
 
 In the decade going from 1953 to 1964, when most of Ian Fleming's Bond stories were published, the Cold War was in full swing, with spies from both sides of the iron curtain heating up the public imagination to melting point. Tales of intrigue and espionage were the thing then, and in that context Ian Fleming came up with his James Bond, "a suave connoisseur of luxury, a world traveler, ruthless killer, skilled wielder of weaponry, rakish womanizer, and virtually indestructible force for the defense of Western society"[^1]. 
 

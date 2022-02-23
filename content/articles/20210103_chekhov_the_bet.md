@@ -1,6 +1,6 @@
 Title: The Bet
 Date: 2021-01-03
-
+Description: Chekhov's classic short story about solitude, books, and a crazy wager.
 
 "The Bet" is an 1889 short story by Anton Chekhov about a banker and a young lawyer who make a bet with each other following a conversation about whether the death penalty is better or worse than life in prison. The banker wagers that the lawyer cannot remain in solitary confinement voluntarily for a period of fifteen years. The story deals with themes like the value of money, the consequences of solitude, the consolation of books, change from youth to maturity, etc. Chekhov may have left the story open-ended on purpose, to prompt the reader into thinking about the consequences of the banker and the lawyer's actions. 
 

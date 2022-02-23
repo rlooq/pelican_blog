@@ -1,6 +1,6 @@
 Title: Cathedrals
 Date: 2011-03-17
-
+Description: Sleepless thoughts on the purpose of churches in the Middle Ages, when one's worldview was certain and foggy.
 
 I woke up at around 2am last night and couldn't get back to sleep. My ankle hurt, my waist, my back, I couldn't find the right position to rest, everything was wrong in my life and in my head. After much tossing and turning in bed, I decided to get up and take my problems to the living room so my wife could sleep undisturbed. She has a lot of work these days besides an injured, pain-in-the-ass husband who complains too much. Messing up with her sleep was the last thing I wanted. So anyway, I sat down on an armchair, put my leg up, grabbed a blanket and got ready to doze off while listening to an audiobook on the iPod. The best thing I could find was a BBC dramatization of "The Hobbit" and, holy goblin, was it well dramatized! Particularly the Gollum character. I had a nightmare where the creature was poking at my ankle with a stick and blowing his nose with my socks. I woke up reaching for one of my socks and then dozed off again a couple of times until I went back to bed at eight in the morning. My wife woke me up at noon and that's when my day began, having breakfast at lunchtime.
 

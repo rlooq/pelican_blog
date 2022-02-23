@@ -1,6 +1,6 @@
 Title: Appointment in Samarra
 Date: 2021-01-09
-
+Description: An Appointment in Samarra, or The Grim Reaper is puzzled to see you here, or Come on Baby... don't fear the reaper. 
 
 An Appointment in Samarra is Somerset Maugham's 1933 retelling of an ancient Mesopotamian tale about the encounter of Death and a man from Baghdad. 
 

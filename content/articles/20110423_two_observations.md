@@ -1,6 +1,6 @@
 Title: Two Observations
 Date: 2011-04-23
-
+Description: The only understanding audience worth the trouble is one's future self, but he might be a stranger by then.
 
 I always wondered why. Why those long, convoluted sentences instead of shorter, simpler ones. Why that disregard for the reader's comfort. Then, this morning, I set Henry James against Ambrose Bierce. Going, say, from Bierce's "The Damned Thing" to James' "The Two Faces," it stands out clearly: James' labyrinthine style requires full concentration and so makes you pay more attention than you would like to. It's a hook that holds you against your will. 
 

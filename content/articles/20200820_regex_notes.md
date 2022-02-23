@@ -1,6 +1,6 @@
 Title: Regex Cheat Sheet
 Date: 2020-08-20
-
+Description: Reference notes on Regular Expressions in general.
 
 A [regular expression]((https://en.wikipedia.org/wiki/Regular_expression)) or pattern is used to go through a text and find a target string that meets the specified requirements. Most formalisms provide the following operations to construct regular expressions:
 

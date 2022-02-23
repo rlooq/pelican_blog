@@ -1,6 +1,6 @@
 Title: The Birthday Of The Infanta
 Date: 2021-01-02
-
+Description: The Birthday of the Infanta. A creepy short story by Oscar Wilde. Mi bella Princesa, your funny little dwarf will never dance again.
 
 *The Birthday of the Infanta* is a short story for children by Oscar Wilde. An ugly young dwarf dancer is brought as a present for the only daughter of the king of Spain. Wilde describes a Spanish court of pomp and pageantry, but underneath that gilded surface, there is a very dark, twisted "passion for the horrible." 
 

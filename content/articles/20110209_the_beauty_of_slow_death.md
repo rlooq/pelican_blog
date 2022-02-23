@@ -1,6 +1,6 @@
 Title: The Beauty Of Slow Death
 Date: 2011-02-09
-
+Description: We die slowly, and then suddenly.
 
 The sun's been out for a week and it's finally getting warmer, which pushes people's moods slightly up. But in Madrid that also means pollution, the dry, itchy kind. With no wind or rain for two weeks, an ugly cloud of dust and sulfur dioxide travels every street and penetrates every window, eye, and nostril. 
 

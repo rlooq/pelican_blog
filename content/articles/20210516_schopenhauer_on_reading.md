@@ -1,5 +1,6 @@
 Title: Don't Read Yourself Stupid
 Date: 2021-05-16
+Description: Extract from a Schopenhauer essay. When we read, another person thinks for us. Refrain from reading yourself stupid.
 
 Arthur Schopenhauer (1788-1860) was a German philosopher, best known for his 1818 work *The World as Will and Representation*, which characterizes the world we experience as the product of a blind and insatiable collective will. He was among the first thinkers in the West to share significant tenets of Indian philosophy, such as asceticism, denial of the self, and the notion of the world-as-appearance.
 

@@ -1,6 +1,6 @@
 Title: Good Old Ebenezer
 Date: 2020-12-24
-
+Description: An extract from Dickens' A Christmas Carol. It would have been in vain for Scrooge to plead that the weather and the hour were not adapted to pedestrian purposes.
 
 *"A Christmas Carol. In Prose. Being a Ghost Story of Christmas"* is a well-known novella by Charles Dickens, first published on December 19th, 1843. It recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come, which completely change his outlook on life. In 1849 Dickens began public readings of the story, which proved so successful he undertook 127 further performances until 1870, the year of his death. 
 

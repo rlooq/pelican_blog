@@ -1,6 +1,6 @@
 Title: Invisible Clothes
 Date: 2017-11-18
-
+Description: The Emperor's New Clothes, a standard metaphor for anything that smells like BS.
 
 In *The Annotated Hans Christian Andersen* (2008), folk and fairy tale researcher Maria Tatar observes that "The Emperor's New Clothes" has acquired an iconic status globally as it migrates across various cultures reshaping itself with each retelling in the manner of oral folktales. It has become a standard metaphor for anything that smacks of pretentiousness, pomposity, social hypocrisy, collective denial, or hollow ostentatiousness. 
 

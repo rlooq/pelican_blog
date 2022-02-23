@@ -1,5 +1,6 @@
 Title: The Water Heater
 Date: 2011-02-12
+Description: Our water heater broke. It's actually been breaking for a while now, dying the slow death of a 15-year-old machine.
 
 
 Our water heater broke. It's actually been breaking for a while now, dying the slow death of a 15-year-old machine. First the water wasn't hot enough for a shower, then the pressure went down to just a trickle. After a few pointless repairs, our landlady finally caved in and decided to buy us a new one, but we still had to take showers at the gym for a week.

@@ -1,6 +1,6 @@
 Title: Le Petit Chaperon Rouge
 Date: 2017-4-19
-
+Description: Perrault's story of Little Red Riding Hood with notes by Andrew Lang.
 
 In the workshop where I'm taking painting classes, we've been asked to contribute our own interpretation of the Little Red Riding Hood fairy tale for an exhibition. They do this with a different theme every year, to show what the students (both children and adults) can do. I don't know much about Little Red Riding Hood, apart from whatever I heard as a child or absorbed by cultural osmosis over the years. So I'm going to the source, which turns out to be Perrault, rather than the Grimm brothers, as I had previously thought.
 

@@ -1,6 +1,6 @@
 Title: A Snaky Journey
 Date: 2021-12-29
-
+Description: Learning Python with little gain so far for lack of a clear purpose. But I'll try to keep it up.
 
 I've been trying to learn [Python](https://www.python.org/) and other related skills on-and-off for some time now. It's been, and still is both frustrating and rewarding in equal measure.
 

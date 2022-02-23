@@ -1,6 +1,6 @@
 Title: Of Graves, Worms and Epitaphs
 Date: 2015-07-30
-
+Description: Of Graves, worms and epitaphs. An extract from Shakespeare's Richard II.
 
 This is an extract from *The Life and Death of King Richard the Second*, commonly called *Richard II*, a history play by William Shakespeare written in approximately 1595. 
 

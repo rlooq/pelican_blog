@@ -1,6 +1,6 @@
 Title: Out of Focus
 Date: 2019-03-15
-
+Description: The difficulty of obsessions in an world with short attention span.
 
 "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly" says Kafka. 
 

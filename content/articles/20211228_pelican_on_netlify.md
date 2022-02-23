@@ -1,5 +1,6 @@
 Title: Pelican on Netlify
 Date: 2021-12-28
+Description: How I started this blog during a Christmas break using Pelican, Netlify, and a very old MacBook Pro running Manjaro i3.
 
 Not much to do over Christmas, with Omicron-related restrictions and all, so I managed to put together this simple blog between meals. This odd domain name was my only Black Friday purchase this year. I couldn't make up my mind and ended up with the non-sensical **Highnoon Ruffles**, which has a cute story behind. More on that some other time.
 
