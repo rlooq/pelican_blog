@@ -2,13 +2,14 @@ Title: Fondling An Error Long Since Exploded
 Date: 2022-02-22
 Description: Dr. Johnson's warning about self-isolating in order to focus. Learning happens in society. Solitude leads to laziness.
 
-[Dr. Johnson's](https://en.wikipedia.org/wiki/Samuel_Johnson) is the story of a sickly boy who by talent, tenacity, and intelligence became the foremost literary figure and the most formidable conversationalist of his time. 
+[Samuel Johnson's](https://en.wikipedia.org/wiki/Samuel_Johnson) life is the story of a sickly boy who by talent, tenacity, and intelligence became the foremost literary figure and the most formidable conversationalist of his time. 
 
-The disparity between his background and achievement gives his life and opinions especial interest. The son of Michael Johnson, a bookseller, he suffered from a number of physical afflictions since childhood. By his own account, he was born "almost dead," and he early contracted scrofula (tuberculosis of the lymphatic glands). Throughout his life, he was nearly blind in his left eye and suffered from highly noticeable tics that some have later diagnosed as Tourette syndrome. 
+The son of Michael Johnson, a bookseller, he suffered from a number of physical afflictions since childhood. By his own account, he was born "almost dead," and he early contracted scrofula (tuberculosis of the lymphatic glands). Throughout his life, he was nearly blind in his left eye and suffered from highly noticeable tics that some have later diagnosed as Tourette syndrome. 
 
-His most successful period was during the publications of two periodicals, [The Rambler](https://en.wikipedia.org/wiki/The_Rambler), and later, The Adventurer. His essays focused on daily realities, but also on literature, criticism and authorship. In all of them, Johnson's declared intention was to "inculcate wisdom or piety" in conformity with Christianity.
+His most successful period was during the publications of two periodicals, [The Rambler](https://en.wikipedia.org/wiki/The_Rambler), and later, The Adventurer. Most of his essays focused on daily realities, but also on literature, criticism and authorship. 
 
-Whatever his intention, here is an extract that I find useful as a reminder to counter my own desert-hermit tendencies:
+Here is an extract that I try to keep in mind to counter my own desert-hermit tendencies. I'm listening, Dr. Johnson, but I have a question for you: Does the internet qualify as "general converse"? Does it provide the "advantages of society"? Or is it rather a perfect blend of everything that "dissipates the attention"?
+
 
 ## Solitude Not Eligible
 
