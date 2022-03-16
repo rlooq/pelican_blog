@@ -4,9 +4,15 @@ Description: Fukuyama frames the current situation in Ukraine in the context of 
 
 In this free-to-read [FT article](https://www.ft.com/content/d0331b51-5d0e-4132-9f97-c3f41c7d75b3), Fukuyama takes a step back to frame the current war in Ukraine in the context of a liberal order under attack from many fronts (within and without), and taken for granted by the very people who benefit from it. 
 
-It's nothing new, he's been developing these views for the last decade or so. And the whole thing is more complex: I'm ploughing through [these two volumes](https://www.theguardian.com/books/2014/sep/28/francis-fukuyama-political-order-political-decay-review-magisterial-overview) to try to grasp it. But the article is a good summary, here are the main takeaways to remember:
+It's nothing new, he's been developing this historical view for the last few decades. The whole thing is more complex: [these two volumes](https://www.theguardian.com/books/2014/sep/28/francis-fukuyama-political-order-political-decay-review-magisterial-overview) lay out the evolution of our current political institutions from prehuman times. 
 
-> Liberalism is a doctrine, first enunciated in the 17th century, that seeks to control violence by lowering the sights of politics. It recognises that people will not agree on the most important things — such as which religion to follow — but that they need to tolerate fellow citizens with views different from their own.
+The first volume begins with politics among our primate ancestors and follows the story through the emergence of tribal societies, the growth of the first modern state in China, the beginning of the rule of law in India and the Middle East, and the development of political accountability in Europe up until the eve of the French Revolution.
+
+The second volume takes up from the French Revolution and examines the effects of corruption on governance, and why some societies have been successful at rooting it out. He also explores the different legacies of colonialism in Latin America, Africa, and Asia. And finally, he reckons with the future of democracy in the face of a rising global problems.
+
+But the FT article is a good summary/reminder for our current purposes. Here are the main takeaways:
+
+> Liberalism is a doctrine, first enunciated in the 17th century, that seeks to __control violence__ by lowering the sights of politics. It recognises that __people will not agree__ on the most important things — such as which religion to follow — but that they need to tolerate fellow citizens with views different from their own.
 
 > It does this by respecting the __equal rights and dignity of individuals, through a rule of law and constitutional government that checks and balances the powers of modern states__. Among those rights are the rights to own property and to transact freely, which is why __classical liberalism__ was strongly associated with high levels of economic growth and prosperity in the modern world. In addition, classical liberalism was typically associated with modern natural science, and the view that science could help us to understand and manipulate the external world to our own benefit.
 
@@ -24,7 +30,7 @@ It's nothing new, he's been developing these views for the last decade or so. An
 
 > __Liberalism is valued the most when people experience life in an illiberal world__. The doctrine itself arose in Europe after the 150 years of unremitting religious warfare that followed the Protestant Reformation. It was reborn in the wake of Europe’s destructive nationalistic wars of the early 20th century. A liberal order was institutionalised in the form of the European Union, and the broader global order of open trade and investment created by US power. [...]
 
-> However, more than a generation has passed now since the fall of the Berlin Wall, and the virtues of living in a liberal world have been taken for granted by many. [...]
+> However, more than a generation has passed now since the fall of the Berlin Wall, and __the virtues of living in a liberal world have been taken for granted by many.__ [...]
 
 > Into this void have stepped illiberal authoritarian regimes. Those of Russia, China, Syria, Venezuela, Iran and Nicaragua have little in common other than the fact that they dislike liberal democracy and want to maintain their own authoritarian power. They have created a network of mutual support that has allowed, for example, the despicable regime of Nicolás Maduro in Caracas to survive despite having driven more than a fifth of Venezuela’s population into exile.
 
