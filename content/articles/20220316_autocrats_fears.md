@@ -8,9 +8,11 @@ This [article on Foreign Affairs](https://www.foreignaffairs.com/articles/china/
 
 Where I disagree, humbly, is the emphasis on fear, paranoia and isolation as the basis for their behavior, which seems to __underestimate__ these two political beasts. 
 
-In politics, like in most walks of life, I'm sure there's also plain hatred towards the opponent, self-aggrandizing ambition, and patient, ruthless calculation to strike when the opportunity is ripe to advance one's designs. But this is no office squabble, this has apocalyptic implications. And that requires fighting back in kind when necessary (as was the case during the Cold War). Diplomacy is the priority, but it has its limits, as we have seen during the past few weeks.
+In politics, like in most walks of life, I'm sure there's plain hatred towards the opponent, self-aggrandizing ambition, and patient, ruthless calculation to strike when the opportunity is ripe to advance one's designs. But I doubt Putin and Xi are as isolated from reality as we think: in fact, they're avid readers of it. They may not always read it right, but they do often enough. And, whatever we want to tell ourselves, they're surrounded by like-minded thugs, some of which excel at what they do.
 
-The recommendation laid out at the end of the article --i.e. direct and consistent communication with these autocrats, to give them a reality check-- sounds naive, considering their deliberate atrocities (Ukraine, Xinjiang), and their smart poking and pushing for strategic gains. As if our main concern should be to make sure they have access to the right information, so they are not misled by their isolated self-delusions. Whose self-delusion is that? 
+Unfortunately, this is no office squabble, but a perverse, and very human game which affects all of us and requires our response, big, small or tiny. Fighting back in kind may turn out to be necessary (as it was with all the moral dilemmas people had to bear during the 20th century). Over the past few weeks we've been seeing many shades between open war and diplomacy, and they all have their (cumulative) effects and their limits.
+
+The recommendation laid out at the end of the article --i.e. direct and consistent communication with these autocrats, to give them a reality check-- sounds rather naive, considering their deliberate atrocities (Ukraine, Xinjiang), and their smart bluffing, poking and pushing for strategic gains. As if our main concern should be to make sure they have access to the right information, so they are not misled by their isolated self-delusions. Whose self-delusion is that? 
 
 Here are some extracts from the article:
 
