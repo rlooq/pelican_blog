@@ -8,10 +8,11 @@ PATH = 'content'
 TIMEZONE = 'Europe/Madrid'
 
 DEFAULT_LANG = 'en'
+GOOGLE_ANALYTICS = "GOOGLE ANALYTICS"
 
 BIO = "Wake up to a hearty, lip-smacking bowlful of nutritious Highnoon toasted flakes, the adult cereal that’s more crunchy, more tasty, more ummmish!"
 PROFILE_IMAGE = 'calling.jpg'
-FOOTER_TEXT = '© 2021. Rafa Luque. All rights reserved.'
+FOOTER_TEXT = '© 2022. Rafa Luque. All rights reserved.'
 COLOR_THEME = '0x'
 DIRECT_TEMPLATES = ['index', 'archives']
 CATEGORY_SAVE_AS = ''
@@ -21,9 +22,10 @@ ARCHIVES_SAVE_AS = 'archive.html'
 SUMMARY_MAX_LENGTH = 90
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-        ('About', 'https://www.highnoon-ruffles.com/pages/about.html'),
-        ('Archive', 'https://www.highnoon-ruffles.com/archive.html'),
-        )
+    ('About', 'https://www.highnoon-ruffles.com/pages/about.html'),
+    ('Archive', 'https://www.highnoon-ruffles.com/archive.html'),
+    ('In Spanish', 'https://www.ombligodelagalaxia.es'),
+    )
 
 FONT_AWESOME_JS = 'https://kit.fontawesome.com/829b54ddaf.js'
 
