@@ -10,7 +10,7 @@ Overall, the constant presence of their ominous bulks makes you uneasy: everyday
 
 The Romans called this town *Arunda*: a description, more than a name, meaning "surrounded by mountains." And earlier Iberian or Celtic settlers probably referred to it in similar terms. Surrounded and outnumbered. 
 
-In the early 20th century, the Austrian poet Rainer Maria Rilke, said that these mountains *spread out like a psalter you could sing psalms from*. For him, living in Ronda was a liberation, and I had been hoping for the same, after a pretty crappy couple of years.
+In 1912, the Austrian poet Rainer Maria Rilke said that these mountains *spread out like a psalter you could sing psalms from*. For him, living in Ronda was a liberation, and I had been hoping for the same, after a pretty crappy couple of years.
 
 We moved here last summer, knowing that it wouldn't be easy after almost 20 years in Madrid. And it wasn't. The decision had been complicated too, with many factors to weigh in: being closer to my aging parents, escaping a toxic job, a break from a city that had felt oppresive during the pandemic... 
 
